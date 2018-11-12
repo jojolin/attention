@@ -1,4 +1,9 @@
 # attention
+## new
+
+Add train.py from [this blog](http://kexue.fm/archives/4765/)
+
+## original
 
 some attention implements
 
